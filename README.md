@@ -52,5 +52,4 @@ In this project, the main agent communicates with three specialized sub-agents:
 
 ---
 
-## 🏗 System Architecture
 
